@@ -44,7 +44,9 @@ header {
     border-bottom-color:lightblue ;
 
 }
- 
+ input::placeholder {
+    color: white;
+ }
 
 
  .logPass label  {
